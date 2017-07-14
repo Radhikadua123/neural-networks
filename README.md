@@ -1,1 +1,1 @@
-# neural-networks
+Neural layer from scratch
