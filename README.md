@@ -1,1 +1,1 @@
-Neural layer from scratch
+Two layer Neural network from scratch
